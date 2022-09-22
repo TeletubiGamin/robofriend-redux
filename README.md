@@ -1,1 +1,5 @@
-Link to the app : https://teletubigamin.github.io/robofriend/
+To run the project:
+
+Clone this repo
+Run npm install
+Run npm start
